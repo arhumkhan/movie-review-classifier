@@ -2,7 +2,7 @@
 This project performs sentiment analysis of movie reviews as either negative or postive using a from-scratch Naive Bayes model. It implements bag-of-word features and add-one smoothing, all in python.
 
 ## Dataset ##
-The movie review dataset is formatted such that each mvoie review is in it's own separate folder, and movie reviews that are positive and negative are spilt into their respective directories. 
+The movie review dataset is formatted such that each movie review is in it's own separate folder, and movie reviews that are positive and negative are spilt into their respective directories. 
 
 ```bash
 ├── reviews
